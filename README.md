@@ -1,8 +1,11 @@
 # Hi there 👋
 
+Hello! My name is Christopher Rosales Barrera, and I am currently a student at Arizona State University, pursuing a major in Graphic Information Technology with a minor in Technological Entrepreneurship and Management.
+
+
 I am a *motivated and dedicated* individual who brings enthusiasm and a strong work ethic to every role I take on. My academic journey blends creative design, technical expertise, and entrepreneurial insight, equipping me with the skills to navigate and excel in a rapidly evolving technological landscape.
 
-I am passionate about exploring innovative solutions, leveraging technology, and delivering impactful results. Whether working independently or collaborating within a team, I strive to achieve excellence and make a positive difference in every project I undertake.
+I am passionate about exploring innovative solutions, leveraging technology, and delivering impactful results. Whether working independently or collaborating within a team.
 
 
 
