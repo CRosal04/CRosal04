@@ -15,5 +15,6 @@ Thank you for taking the time to learn a little about me—I look forward to con
 # My stats 🔥
 
 ## Links:
-[My linkedlin](https://www.linkedin.com/in/christopher-rosales-barrera-486026292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
-[Codepen🖊️](https://codepen.io/Christopher-Rosales-the-styleful)
+
+-[My linkedlin](https://www.linkedin.com/in/christopher-rosales-barrera-486026292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+=[Codepen🖊️](https://codepen.io/Christopher-Rosales-the-styleful)
