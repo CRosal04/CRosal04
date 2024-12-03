@@ -16,7 +16,7 @@ I am currently collaborating with a **growing trucking company** to design and r
 Thank you for taking the time to learn a little about me—I look forward to connecting and sharing ideas!
 
 # My stats 🔥
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=dcroci&theme=dracula)
+[GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=dcroci&theme=dracula)
 ## Links:
 
 - [My linkedlin](https://www.linkedin.com/in/christopher-rosales-barrera-486026292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
