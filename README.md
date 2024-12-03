@@ -1,5 +1,5 @@
 # Hi there 👋
-
+<img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" height="30px">
 Hello! My name is Christopher Rosales Barrera, and I am currently a student at Arizona State University, pursuing a major in Graphic Information Technology with a minor in Technological Entrepreneurship and Management.
 
 
