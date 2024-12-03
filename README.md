@@ -17,6 +17,7 @@ Thank you for taking the time to learn a little about me—I look forward to con
 
 # My stats 🔥
 [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=dcroci&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dcroci&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 ## Links:
 - <a href="https://www.linkedin.com/in/christopher-rosales-barrera-486026292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
