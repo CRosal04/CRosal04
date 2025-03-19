@@ -11,6 +11,7 @@ I am passionate about exploring innovative solutions, leveraging technology, and
 I am currently collaborating with a **growing trucking company** to design and refine their brand identity. **My role includes developing a distinctive and impactful logo that aligns with their vision and values and designing their fleet units' visual aesthetics.** This hands-on experience has strengthened my expertise in graphic design, branding, and practical applications of visual communication within the transportation industry.
 
 My skill set includes proficiency in Adobe Creative Suite (Illustrator, Photoshop, InDesign), web design (HTML, CSS, JavaScript), and emerging technologies like UX/UI design principles and motion graphics. I am also actively learning about digital marketing tools and data analytics to enhance my design strategy further.
+
 Whether working independently or as part of a collaborative team, I exist to transform ideas into engaging experiences that inspire connection and create a lasting impact on lives. I continuously strive to improve my craft. I am available for collaboration and consultation, and you can reach me via email at cristorosales0402@gmail.com or connect with me on LinkedIn
 
 Thank you for taking the time to learn a little about me—I look forward to connecting and sharing ideas!
