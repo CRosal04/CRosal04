@@ -22,7 +22,6 @@ Thank you for taking the time to learn a little about me—I look forward to con
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)  
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)  
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  
-![Git](https://img.icons8.com/color/48/000000/git.png)  
 ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)  
 
 ### **Design & Prototyping**  
