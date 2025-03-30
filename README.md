@@ -30,9 +30,9 @@ Thank you for taking the time to learn a little about me—I look forward to con
 ![Canva](https://img.icons8.com/color/48/000000/canva.png)  
 
 ### **Adobe Creative Suite**  
-![Adobe Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)  
-![Adobe Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png)  
-![Adobe XD](https://img.icons8.com/color/48/000000/adobe-xd.png)  
+-![Adobe Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)  
+-![Adobe Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png)  
+-![Adobe XD](https://img.icons8.com/color/48/000000/adobe-xd.png)  
 
 ##  Connect with Me
 - <a href="https://www.linkedin.com/in/christopher-rosales-barrera-486026292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
