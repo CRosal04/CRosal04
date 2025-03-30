@@ -16,6 +16,12 @@ Whether working independently or as part of a collaborative team, I exist to tra
 
 Thank you for taking the time to learn a little about me—I look forward to connecting and sharing ideas!
 
+##  Connect with Me
+- <a href="https://www.linkedin.com/in/christopher-rosales-barrera-486026292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+- [Codepen🖊️](https://codepen.io/Christopher-Rosales-the-styleful)
+- [Behance](https://www.behance.net/chirstorosales)
+
 ## 🛠 **Tech Stack**  
 
 ### **Development**  
@@ -33,13 +39,6 @@ Thank you for taking the time to learn a little about me—I look forward to con
 ![Adobe Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)  
 ![Adobe Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png)  
 ![Adobe XD](https://img.icons8.com/color/48/000000/adobe-xd.png)  
-
-##  Connect with Me
-- <a href="https://www.linkedin.com/in/christopher-rosales-barrera-486026292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
-- [Codepen🖊️](https://codepen.io/Christopher-Rosales-the-styleful)
-- [Behance](https://www.behance.net/chirstorosales)
-
 
 
 # My stats 🔥
