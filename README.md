@@ -15,7 +15,27 @@ My skill set includes proficiency in Adobe Creative Suite (Illustrator, Photosho
 Whether working independently or as part of a collaborative team, I exist to transform ideas into engaging experiences that inspire connection and create a lasting impact on lives. I continuously strive to improve my craft. I am available for collaboration and consultation, and you can reach me via email at cristorosales0402@gmail.com or connect with me on LinkedIn
 
 Thank you for taking the time to learn a little about me—I look forward to connecting and sharing ideas!
-## Links:
+
+## 🛠 **Tech Stack**  
+
+### **Development**  
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)  
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)  
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  
+![Git](https://img.icons8.com/color/48/000000/git.png)  
+![GitHub](https://img.icons8.com/fluent/48/000000/github.png)  
+
+### **Design & Prototyping**  
+![Figma](https://img.icons8.com/color/48/000000/figma.png)  
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=Miro&logoColor=000)  
+![Canva](https://img.icons8.com/color/48/000000/canva.png)  
+
+### **Adobe Creative Suite**  
+![Adobe Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)  
+![Adobe Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png)  
+![Adobe XD](https://img.icons8.com/color/48/000000/adobe-xd.png)  
+
+##  Connect with Me
 - <a href="https://www.linkedin.com/in/christopher-rosales-barrera-486026292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   
