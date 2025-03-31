@@ -25,22 +25,16 @@ Thank you for taking the time to learn a little about me—I look forward to con
 ## 🛠 **Tech Stack**  
 
 ### **Development**  
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)  
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)  
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  
-![GitHub](https://img.icons8.com/fluent/48/000000/github.png)  
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)  ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)  
+
 
 ### **Design & Prototyping**  
-![Figma](https://img.icons8.com/color/48/000000/figma.png)  
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=Miro&logoColor=000)  
-![Canva](https://img.icons8.com/color/48/000000/canva.png)  
+![Figma](https://img.icons8.com/color/48/000000/figma.png)  ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=Miro&logoColor=000)  ![Canva](https://img.icons8.com/color/48/000000/canva.png)  
 
 ### **Adobe Creative Suite**  
-![Adobe Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)  
-![Adobe Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png)  
-![Adobe XD](https://img.icons8.com/color/48/000000/adobe-xd.png)  
+![Adobe Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)  ![Adobe Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png)  ![Adobe XD](https://img.icons8.com/color/48/000000/adobe-xd.png)  
 
 
 # My stats 🔥
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=dcroci&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=dcroci&theme=dracula)](https://git.io/streak-stats) 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dcroci&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
