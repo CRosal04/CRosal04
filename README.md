@@ -17,13 +17,13 @@ Whether working independently or as part of a collaborative team, I exist to tra
 Thank you for taking the time to learn a little about me—I look forward to connecting and sharing ideas!
 
 ##  Connect with Me
-- <a href="https://www.linkedin.com/in/christopher-rosales-barrera-486026292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+ <a href="https://www.linkedin.com/in/christopher-rosales-barrera-486026292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" width="50" height="50"/> 
-- <a href ="https://codepen.io/Christopher-Rosales-the-styleful">
-       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" alt="CodePen" width="50" height="50"/>
-</p>
 
-- <a href ="https://www.behance.net/chirstorosales">
+  <a href ="https://codepen.io/Christopher-Rosales-the-styleful">
+       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" alt="CodePen" width="50" height="50"/>
+
+ <a href ="https://www.behance.net/chirstorosales">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/behance.svg" alt="Behance" width="50" height="50"/>
 
 ## 🛠 **Tech Stack**  
