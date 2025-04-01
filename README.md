@@ -23,7 +23,8 @@ Thank you for taking the time to learn a little about me—I look forward to con
        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" alt="CodePen" width="50" height="50"/>
 </p>
 
-- [Behance](https://www.behance.net/chirstorosales)
+- <a href ="https://www.behance.net/chirstorosales">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/behance.svg" alt="Behance" width="50" height="50"/>
 
 ## 🛠 **Tech Stack**  
 
