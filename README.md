@@ -8,7 +8,7 @@ I am a *motivated and dedicated* individual who brings enthusiasm and a strong w
 I am passionate about exploring innovative solutions, leveraging technology, and delivering impactful results. Whether working independently or collaborating within a team.
 My skill set includes proficiency in Adobe Creative Suite (Illustrator, Photoshop, InDesign), web design (HTML, CSS, JavaScript), and emerging technologies like UX/UI design principles and motion graphics. I am also actively learning about digital marketing tools and data analytics to enhance my design strategy further.
 
-Whether working independently or as part of a collaborative team, I exist to transform ideas into engaging experiences that inspire connection and create a lasting impact on lives. I continuously strive to improve my craft. I am available for collaboration and consultation, and you can reach me via email at cristorosales0402@gmail.com or connect with me on LinkedIn
+Whether working independently or as part of a collaborative team, I exist to transform ideas into engaging experiences that inspire connection and create a lasting impact on lives. I continuously strive to improve my craft. I am available for collaboration and consultation, and you can reach me via email at crosal11@asu.edu or connect with me on LinkedIn
 
 Thank you for taking the time to learn a little about me—I look forward to connecting and sharing ideas!
 
